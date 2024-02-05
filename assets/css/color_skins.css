@@ -1,0 +1,801 @@
+.theme-black .minileftbar {
+    background: #22252b
+}
+
+.theme-black .minileftbar .btn-neutral {
+    color: #22252b
+}
+
+.theme-black .minileftbar .menu_list li a {
+    color: #afafaf
+}
+
+.theme-black .minileftbar .menu_list .notify .point {
+    background-color: #fff
+}
+
+.theme-black .minileftbar .menu_list .notify .heartbit {
+    background-color: #afafaf
+}
+
+.theme-black .right_menu .menu-app a:hover {
+    background: linear-gradient(45deg, #313740, #525a65);
+    color: #fff
+}
+
+.theme-black.menu_sm .sidebar .list li .ml-menu a {
+    color: #78909c
+}
+
+.theme-black.menu_sm .sidebar .list li .ml-menu a::before {
+    color: #78909c
+}
+
+.theme-black.menu_sm .sidebar .list li .ml-menu a:hover {
+    background: linear-gradient(45deg, #313740, #525a65);
+    color: #fff
+}
+
+.theme-black .btn-primary {
+    background: #313740
+}
+
+.theme-black .btn-primary:active,
+.theme-black .btn-primary:hover,
+.theme-black .btn-primary:focus {
+    background: #525a65
+}
+
+.theme-black .btn-primary.btn-simple {
+    border-color: #313740;
+    color: #313740;
+    background: transparent
+}
+
+.theme-black .page-loader-wrapper {
+    background: linear-gradient(45deg, #313740, #525a65)
+}
+
+.theme-black .sidebar .menu .list li.active.open {
+    background: #313740
+}
+
+.theme-black .sidebar .menu .list li.active.open a {
+    color: #afafaf
+}
+
+.theme-black .sidebar .menu .list li.active.open a::before {
+    color: #afafaf
+}
+
+.theme-black .checkbox input[type="checkbox"]:checked+label::after {
+    border-color: #313740;
+    background: #313740;
+    color: white
+}
+
+.theme-black .nav-tabs .nav-link {
+    border: 1px solid #afafaf
+}
+
+.theme-black .nav-tabs .nav-link.active {
+    border: 1px solid #313740 !important;
+    background: #313740;
+    color: #fff
+}
+
+.theme-black .card .header h2:before {
+    background: #313740
+}
+
+.theme-black .card .header .dropdown-menu li a:hover {
+    background-color: #313740;
+    color: #fff
+}
+
+.theme-black .chat-widget li.left .message {
+    background: #313740
+}
+
+.theme-black .authentication {
+    background: #313740 !important
+}
+
+.theme-black .menu-container ul>li>ul>li a:hover,
+.theme-black .menu-container ul.normal-sub>li a:hover {
+    background: #313740
+}
+
+.theme-black .fc .fc-toolbar .fc-right .fc-state-active {
+    background: #313740;
+    color: #fff
+}
+
+.theme-black .form-control:focus,
+.theme-black .form-control:focus+.input-group-addon,
+.theme-black .form-control:focus~.input-group-addon,
+.theme-black .input-group-focus .input-group-addon {
+    border-color: #313740;
+    background: #fff
+}
+
+.theme-purple .authentication {
+    background: #ac68cc
+}
+
+.theme-purple .authentication::before {
+    opacity: 0.07
+}
+
+.theme-purple .authentication .company_detail h3,
+.theme-purple .authentication .company_detail p {
+    opacity: 1
+}
+
+.theme-purple .minileftbar {
+    background: #ac68cc
+}
+
+.theme-purple .minileftbar .btn-neutral {
+    color: #22252b
+}
+
+.theme-purple .right_menu .menu-app a:hover {
+    background: #ac68cc;
+    color: #fff
+}
+
+.theme-purple.menu_sm .sidebar .list li .ml-menu a {
+    color: #78909c
+}
+
+.theme-purple.menu_sm .sidebar .list li .ml-menu a::before {
+    color: #78909c
+}
+
+.theme-purple.menu_sm .sidebar .list li .ml-menu a:hover {
+    background: #9744be;
+    color: #fff
+}
+
+.theme-purple .btn-primary {
+    background: #ac68cc
+}
+
+.theme-purple .btn-primary:active,
+.theme-purple .btn-primary:hover,
+.theme-purple .btn-primary:focus {
+    background: #c18eda
+}
+
+.theme-purple .btn-primary.btn-simple {
+    border-color: #ac68cc;
+    color: #ac68cc;
+    background: transparent
+}
+
+.theme-purple .page-loader-wrapper {
+    background: #ac68cc
+}
+
+.theme-purple .sidebar .menu .list li.active.open {
+    background: #ac68cc
+}
+
+.theme-purple .sidebar .menu .list a:hover {
+    color: #ac68cc
+}
+
+.theme-purple .checkbox input[type="checkbox"]:checked+label::after {
+    border-color: #ac68cc;
+    background: #ac68cc;
+    color: white
+}
+
+.theme-purple .nav-tabs .nav-link.active {
+    border: 1px solid #ac68cc !important;
+    background: #ac68cc;
+    color: #fff
+}
+
+.theme-purple .card .header h2:before {
+    background: #ac68cc
+}
+
+.theme-purple .card .header .dropdown-menu li a:hover {
+    background-color: #ac68cc;
+    color: #fff
+}
+
+.theme-purple .chat-widget li.left .message {
+    background: #ac68cc
+}
+
+.theme-purple .authentication .navbar,
+.theme-purple .authentication .page-header {
+    background: #ac68cc !important
+}
+
+.theme-purple .menu-container ul>li>ul>li a:hover,
+.theme-purple .menu-container ul.normal-sub>li a:hover {
+    background: #ac68cc
+}
+
+.theme-purple .fc .fc-toolbar .fc-right .fc-state-active {
+    background: #ac68cc;
+    color: #fff
+}
+
+.theme-purple .form-control:focus,
+.theme-purple .form-control:focus+.input-group-addon,
+.theme-purple .form-control:focus~.input-group-addon,
+.theme-purple .input-group-focus .input-group-addon {
+    border-color: #ac68cc;
+    background: #fff
+}
+
+.theme-blue .authentication {
+    background: #3eacff
+}
+
+.theme-blue .authentication::before {
+    opacity: 0.07
+}
+
+.theme-blue .authentication .company_detail h3,
+.theme-blue .authentication .company_detail p {
+    opacity: 1
+}
+
+.theme-blue .minileftbar {
+    background: #3eacff
+}
+
+.theme-blue .minileftbar .btn-neutral {
+    color: #22252b
+}
+
+.theme-blue .right_menu .menu-app a:hover {
+    background: #3eacff;
+    color: #fff
+}
+
+.theme-blue.menu_sm .sidebar .list li .ml-menu a {
+    color: #78909c
+}
+
+.theme-blue.menu_sm .sidebar .list li .ml-menu a::before {
+    color: #78909c
+}
+
+.theme-blue.menu_sm .sidebar .list li .ml-menu a:hover {
+    background: #0d97ff;
+    color: #fff
+}
+
+.theme-blue .btn-primary {
+    background: #3eacff
+}
+
+.theme-blue .btn-primary:active,
+.theme-blue .btn-primary:hover,
+.theme-blue .btn-primary:focus {
+    background: #60bafd
+}
+
+.theme-blue .btn-primary.btn-simple {
+    border-color: #3eacff;
+    color: #3eacff;
+    background: transparent
+}
+
+.theme-blue .page-loader-wrapper {
+    background: #3eacff
+}
+
+.theme-blue .sidebar .menu .list li.active.open {
+    background: #3eacff
+}
+
+.theme-blue .sidebar .menu .list a:hover {
+    color: #3eacff
+}
+
+.theme-blue .checkbox input[type="checkbox"]:checked+label::after {
+    border-color: #3eacff;
+    background: #3eacff;
+    color: white
+}
+
+.theme-blue .nav-tabs .nav-link.active {
+    border: 1px solid #3eacff !important;
+    background: #3eacff;
+    color: #fff
+}
+
+.theme-blue .card .header h2:before {
+    background: #3eacff
+}
+
+.theme-blue .card .header .dropdown-menu li a:hover {
+    background-color: #3eacff;
+    color: #fff
+}
+
+.theme-blue .chat-widget li.left .message {
+    background: #3eacff
+}
+
+.theme-blue .authentication .navbar,
+.theme-blue .authentication .page-header {
+    background: #3eacff !important
+}
+
+.theme-blue .menu-container ul>li>ul>li a:hover,
+.theme-blue .menu-container ul.normal-sub>li a:hover {
+    background: #3eacff
+}
+
+.theme-blue .fc .fc-toolbar .fc-right .fc-state-active {
+    background: #3eacff;
+    color: #fff
+}
+
+.theme-blue .form-control:focus,
+.theme-blue .form-control:focus+.input-group-addon,
+.theme-blue .form-control:focus~.input-group-addon,
+.theme-blue .input-group-focus .input-group-addon {
+    border-color: #3eacff;
+    background: #fff
+}
+
+.theme-cyan .authentication {
+    background: #49c5b6
+}
+
+.theme-cyan .authentication::before {
+    opacity: 0.07
+}
+
+.theme-cyan .authentication .company_detail h3,
+.theme-cyan .authentication .company_detail p {
+    opacity: 1
+}
+
+.theme-cyan .minileftbar {
+    background: #49c5b6
+}
+
+.theme-cyan .minileftbar .btn-neutral {
+    color: #22252b
+}
+
+.theme-cyan .right_menu .menu-app a:hover {
+    background: #49c5b6;
+    color: #fff
+}
+
+.theme-cyan.menu_sm .sidebar .list li .ml-menu a {
+    color: #78909c
+}
+
+.theme-cyan.menu_sm .sidebar .list li .ml-menu a::before {
+    color: #78909c
+}
+
+.theme-cyan.menu_sm .sidebar .list li .ml-menu a:hover {
+    background: #00acc1;
+    color: #fff
+}
+
+.theme-cyan .btn-primary {
+    background: #49c5b6
+}
+
+.theme-cyan .btn-primary:active,
+.theme-cyan .btn-primary:hover,
+.theme-cyan .btn-primary:focus {
+    background: #22cec7
+}
+
+.theme-cyan .btn-primary.btn-simple {
+    border-color: #49c5b6;
+    color: #49c5b6;
+    background: transparent
+}
+
+.theme-cyan .page-loader-wrapper {
+    background: #49c5b6
+}
+
+.theme-cyan .sidebar .menu .list li.active.open {
+    background: #49c5b6
+}
+
+.theme-cyan .sidebar .menu .list a:hover {
+    color: #49c5b6
+}
+
+.theme-cyan .checkbox input[type="checkbox"]:checked+label::after {
+    border-color: #49c5b6;
+    background: #49c5b6;
+    color: white
+}
+
+.theme-cyan .nav-tabs .nav-link.active {
+    border: 1px solid #49c5b6 !important;
+    background: #49c5b6;
+    color: #fff
+}
+
+.theme-cyan .card .header h2:before {
+    background: #49c5b6
+}
+
+.theme-cyan .card .header .dropdown-menu li a:hover {
+    background-color: #49c5b6;
+    color: #fff
+}
+
+.theme-cyan .chat-widget li.left .message {
+    background: #49c5b6
+}
+
+.theme-cyan .authentication .navbar,
+.theme-cyan .authentication .page-header {
+    background: #49c5b6 !important
+}
+
+.theme-cyan .menu-container ul>li>ul>li a:hover,
+.theme-cyan .menu-container ul.normal-sub>li a:hover {
+    background: #49c5b6
+}
+
+.theme-cyan .fc .fc-toolbar .fc-right .fc-state-active {
+    background: #49c5b6;
+    color: #fff
+}
+
+.theme-cyan .form-control:focus,
+.theme-cyan .form-control:focus+.input-group-addon,
+.theme-cyan .form-control:focus~.input-group-addon,
+.theme-cyan .input-group-focus .input-group-addon {
+    border-color: #49c5b6;
+    background: #fff
+}
+
+.theme-green .authentication {
+    background: #50d38a
+}
+
+.theme-green .authentication::before {
+    opacity: 0.07
+}
+
+.theme-green .authentication .company_detail h3,
+.theme-green .authentication .company_detail p {
+    opacity: 1
+}
+
+.theme-green .minileftbar {
+    background: #50d38a
+}
+
+.theme-green .minileftbar .btn-neutral {
+    color: #22252b
+}
+
+.theme-green .right_menu .menu-app a:hover {
+    background: #50d38a;
+    color: #fff
+}
+
+.theme-green.menu_sm .sidebar .list li .ml-menu a {
+    color: #78909c
+}
+
+.theme-green.menu_sm .sidebar .list li .ml-menu a::before {
+    color: #78909c
+}
+
+.theme-green.menu_sm .sidebar .list li .ml-menu a:hover {
+    background: #43a047;
+    color: #fff
+}
+
+.theme-green .btn-primary {
+    background: #50d38a
+}
+
+.theme-green .btn-primary:active,
+.theme-green .btn-primary:hover,
+.theme-green .btn-primary:focus {
+    background: #5cdb94
+}
+
+.theme-green .btn-primary.btn-simple {
+    border-color: #50d38a;
+    color: #50d38a;
+    background: transparent
+}
+
+.theme-green .page-loader-wrapper {
+    background: #50d38a
+}
+
+.theme-green .sidebar .menu .list li.active.open {
+    background: #50d38a
+}
+
+.theme-green .sidebar .menu .list a:hover {
+    color: #50d38a
+}
+
+.theme-green .checkbox input[type="checkbox"]:checked+label::after {
+    border-color: #50d38a;
+    background: #50d38a;
+    color: white
+}
+
+.theme-green .nav-tabs .nav-link.active {
+    border: 1px solid #50d38a !important;
+    background: #50d38a;
+    color: #fff
+}
+
+.theme-green .card .header h2:before {
+    background: #50d38a
+}
+
+.theme-green .card .header .dropdown-menu li a:hover {
+    background-color: #50d38a;
+    color: #fff
+}
+
+.theme-green .chat-widget li.left .message {
+    background: #50d38a
+}
+
+.theme-green .authentication .navbar,
+.theme-green .authentication .page-header {
+    background: #50d38a !important
+}
+
+.theme-green .menu-container ul>li>ul>li a:hover,
+.theme-green .menu-container ul.normal-sub>li a:hover {
+    background: #50d38a
+}
+
+.theme-green .fc .fc-toolbar .fc-right .fc-state-active {
+    background: #50d38a;
+    color: #fff
+}
+
+.theme-green .form-control:focus,
+.theme-green .form-control:focus+.input-group-addon,
+.theme-green .form-control:focus~.input-group-addon,
+.theme-green .input-group-focus .input-group-addon {
+    border-color: #50d38a;
+    background: #fff
+}
+
+.theme-orange .authentication {
+    background: #ffce4b
+}
+
+.theme-orange .authentication::before {
+    opacity: 0.1
+}
+
+.theme-orange .authentication .company_detail {
+    color: #22252b
+}
+
+.theme-orange .authentication .company_detail h3,
+.theme-orange .authentication .company_detail p {
+    opacity: 1
+}
+
+.theme-orange .minileftbar {
+    background: #ffce4b
+}
+
+.theme-orange .minileftbar .btn-neutral {
+    color: #22252b
+}
+
+.theme-orange .right_menu .menu-app a:hover {
+    background: #ffce4b;
+    color: #fff
+}
+
+.theme-orange.menu_sm .sidebar .list li .ml-menu a {
+    color: #78909c
+}
+
+.theme-orange.menu_sm .sidebar .list li .ml-menu a::before {
+    color: #78909c
+}
+
+.theme-orange.menu_sm .sidebar .list li .ml-menu a:hover {
+    background: #fb8c00;
+    color: #fff
+}
+
+.theme-orange .btn-primary {
+    background: #ffce4b
+}
+
+.theme-orange .btn-primary:active,
+.theme-orange .btn-primary:hover,
+.theme-orange .btn-primary:focus {
+    background: #e7ca52
+}
+
+.theme-orange .btn-primary.btn-simple {
+    border-color: #ffce4b;
+    color: #ffce4b;
+    background: transparent
+}
+
+.theme-orange .page-loader-wrapper {
+    background: #ffce4b
+}
+
+.theme-orange .sidebar .menu .list li.active.open {
+    background: #ffce4b
+}
+
+.theme-orange .sidebar .menu .list a:hover {
+    color: #ffce4b
+}
+
+.theme-orange .checkbox input[type="checkbox"]:checked+label::after {
+    border-color: #ffce4b;
+    background: #ffce4b;
+    color: white
+}
+
+.theme-orange .nav-tabs .nav-link.active {
+    border: 1px solid #ffce4b !important;
+    background: #ffce4b;
+    color: #fff
+}
+
+.theme-orange .card .header h2:before {
+    background: #ffce4b
+}
+
+.theme-orange .card .header .dropdown-menu li a:hover {
+    background-color: #ffce4b;
+    color: #fff
+}
+
+.theme-orange .chat-widget li.left .message {
+    background: #ffce4b
+}
+
+.theme-orange .authentication .navbar,
+.theme-orange .authentication .page-header {
+    background: #ffce4b !important
+}
+
+.theme-orange .menu-container ul>li>ul>li a:hover,
+.theme-orange .menu-container ul.normal-sub>li a:hover {
+    background: #ffce4b
+}
+
+.theme-orange .fc .fc-toolbar .fc-right .fc-state-active {
+    background: #ffce4b;
+    color: #fff
+}
+
+.theme-orange .form-control:focus,
+.theme-orange .form-control:focus+.input-group-addon,
+.theme-orange .form-control:focus~.input-group-addon,
+.theme-orange .input-group-focus .input-group-addon {
+    border-color: #ffce4b;
+    background: #fff
+}
+
+.theme-blush .minileftbar {
+    background: #f38f9b
+}
+
+.theme-blush .minileftbar .btn-neutral {
+    color: #22252b
+}
+
+.theme-blush .right_menu .menu-app a:hover {
+    background: #f38f9b;
+    color: #fff
+}
+
+.theme-blush.menu_sm .sidebar .list li .ml-menu a {
+    color: #78909c
+}
+
+.theme-blush.menu_sm .sidebar .list li .ml-menu a::before {
+    color: #78909c
+}
+
+.theme-blush.menu_sm .sidebar .list li .ml-menu a:hover {
+    background: #ea7e9e;
+    color: #fff
+}
+
+.theme-blush .btn-primary {
+    background: #f38f9b
+}
+
+.theme-blush .btn-primary:active,
+.theme-blush .btn-primary:hover,
+.theme-blush .btn-primary:focus {
+    background: #f9a09c
+}
+
+.theme-blush .btn-primary.btn-simple {
+    border-color: #f38f9b;
+    color: #f38f9b;
+    background: transparent
+}
+
+.theme-blush .page-loader-wrapper {
+    background: #f38f9b
+}
+
+.theme-blush .sidebar .menu .list li.active.open {
+    background: #f38f9b
+}
+
+.theme-blush .sidebar .menu .list a:hover {
+    color: #f38f9b
+}
+
+.theme-blush .checkbox input[type="checkbox"]:checked+label::after {
+    border-color: #f38f9b;
+    background: #f38f9b;
+    color: white
+}
+
+.theme-blush .nav-tabs .nav-link.active {
+    border: 1px solid #f38f9b !important;
+    background: #f38f9b;
+    color: #fff
+}
+
+.theme-blush .card .header h2:before {
+    background: #f38f9b
+}
+
+.theme-blush .card .header .dropdown-menu li a:hover {
+    background-color: #f38f9b;
+    color: #fff
+}
+
+.theme-blush .chat-widget li.left .message {
+    background: #f38f9b
+}
+
+.theme-blush .authentication .navbar,
+.theme-blush .authentication .page-header {
+    background: #f38f9b !important
+}
+
+.theme-blush .menu-container ul>li>ul>li a:hover,
+.theme-blush .menu-container ul.normal-sub>li a:hover {
+    background: #f38f9b
+}
+
+.theme-blush .fc .fc-toolbar .fc-right .fc-state-active {
+    background: #f38f9b;
+    color: #fff
+}
+
+.theme-blush .form-control:focus,
+.theme-blush .form-control:focus+.input-group-addon,
+.theme-blush .form-control:focus~.input-group-addon,
+.theme-blush .input-group-focus .input-group-addon {
+    border-color: #f38f9b;
+    background: #fff
+}
